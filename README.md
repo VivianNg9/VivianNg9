@@ -6,7 +6,7 @@ With a strong foundation in Business Analytics, I am a senior Master's student a
 **Skills**: Python / R / SQL / MongoDB / Tableau / PowerBI / Qlik / SAS
 
 - 🔭 I’m currently working on expanding my opportunities in the field of business/data analyst. 
-- 🌱 I’m currently learning Master of Business Analytics 
+- 🌱 I’m currently studying Master of Business Analytics 
 - 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/mai-vy-vivian-nguyen-699169223  
 - 😄 Pronouns: She/Her 
 - ⚡ Fun fact: Data Enthusiast 
