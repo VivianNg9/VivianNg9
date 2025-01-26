@@ -11,7 +11,7 @@
 - **Design and Prototyping:** Figma (HCI/UX)
 
 ### **About Me**
-- 🔭 I’m currently working on expanding my opportunities in the field of business/data analyst. 
+- 🔭 I’m currently working on expanding my opportunities in the field of Data Analyst / Business Intelligence Analyst. 
 - 🌱 I’m a Master of Business Analytics Graduate 
 - 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/mai-vy-vivian-nguyen-699169223  
 - 😄 Pronouns: She/Her 
