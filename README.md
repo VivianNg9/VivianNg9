@@ -12,7 +12,6 @@
 
 ### **About Me**
 - 🔭 I’m currently working on expanding my opportunities in the field of Data Analyst / Business Intelligence Analyst. 
-- 🌱 I’m a Master of Business Analytics Graduate 
+- 🌱 I hold Master of Business Analytics from Macquarie University
 - 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/mai-vy-vivian-nguyen-699169223  
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: Data Enthusiast 
+
