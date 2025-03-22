@@ -11,7 +11,6 @@
 - **Design and Prototyping:** Figma (HCI/UX)
 
 ### **About Me**
-- 🔭 I’m currently working on expanding my opportunities in the field of Data Analyst / Business Intelligence Analyst. 
+- 🔭 Customer-focused professional with 2+ years’ experience enhancing satisfaction and streamlining operations through data-driven insights, with strong skills in SQL, Python, R, BI tools, and SAP CRM.
 - 🌱 I hold Master of Business Analytics from Macquarie University
-- 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/mai-vy-vivian-nguyen-699169223  
-
+- 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/vivian-nguyennn/
