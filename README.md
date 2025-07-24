@@ -15,7 +15,6 @@
 - 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/vivian-nguyennn/
 
 
-![VivianNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![VivianNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 
-![VivianNguyen's Stats](https://github-readme-stats.vercel.app/api?username=VivianNguyen&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
  
