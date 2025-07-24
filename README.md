@@ -13,3 +13,6 @@
 - 🔭 Customer-focused professional with 2+ years’ experience enhancing satisfaction and streamlining operations through data-driven insights, with strong skills in SQL, Python, R, BI tools.
 - 🌱 Business Analytics degree
 - 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/vivian-nguyennn/
+
+
+![VivianNguyen's Stats](https://github-readme-stats.vercel.app/api?username=VivianNguyen&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
