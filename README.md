@@ -10,7 +10,6 @@
 - **Design and Prototyping:** Figma (HCI/UX)
 
 ### **About Me**
-- 🔭 Customer-focused professional with 2+ years’ experience enhancing satisfaction and streamlining operations through data-driven insights, with strong skills in SQL, Python, R, BI tools.
 - 🌱 Business Analytics degree
 - 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/vivian-nguyennn/
 
