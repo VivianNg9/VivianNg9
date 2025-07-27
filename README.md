@@ -11,7 +11,7 @@
 
 ### **About Me**
 - 🌱 Business Analytics degree
-- 🔍 Domain: Retail, Customer Experience
+- 🔍 Domain: Retail, Finance, Customer Experience
 - 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/vivian-nguyennn/
 
 
