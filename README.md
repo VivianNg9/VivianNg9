@@ -1,5 +1,5 @@
 # Hi there 👋, My name is Vivian!
-!![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+[![Vivian Nguyen profile views](https://u8views.com/api/v1/github/profiles/130325099/views/day-week-month-total-count.svg)](https://u8views.com/github/VivianNg9)
 ### **Technicall Skills**
 
 - **Programming Languages:** Python, R, SQL
