@@ -1,5 +1,5 @@
 # Hi there 👋, My name is Vivian!
-
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet)
 ### **Technicall Skills**
 
 - **Programming Languages:** Python, R, SQL
