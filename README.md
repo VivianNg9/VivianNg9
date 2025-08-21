@@ -3,7 +3,9 @@
 
 Hi there, I'm Vivian - a data enthusiast. 
 
-This GitHub is where I share my projects and learnings as I grow in the world of analytics. Thanks for stopping by — feel free to explore, connect, or just say hi!
+This GitHub is where I share my projects and learnings as I grow in the world of analytics. 
+
+Thanks for stopping by — feel free to explore, connect, or just say hi!
 
 ### **Technicall Skills**
 
