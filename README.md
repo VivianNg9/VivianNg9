@@ -7,7 +7,7 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 
 Thanks for stopping by — feel free to explore, connect, or just say hi!
 
-### **Technicall Skills**
+## **Technicall Skills**
 
 - **Programming Languages:** Python, R, SQL (MySQL, SQL Server, PostgreSQL), Excel (Pivot Table, Power Query, VBA) 
 - **Data Visualization tools:** PowerBI, Tableau, SAS Viya
@@ -15,7 +15,7 @@ Thanks for stopping by — feel free to explore, connect, or just say hi!
 - **Statistical Modeling:** Forecasting, Regression Analysis
 - **UX/UI Design**: Figma 
 
-### **About Me**
+## **About Me**
 - 🌱 Business Analytics degree
 - 🔍 Domain: Retail, Finance, Customer Experience
 
