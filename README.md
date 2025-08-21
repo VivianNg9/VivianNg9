@@ -1,18 +1,21 @@
-# Hi there 👋, My name is Vivian!
+# Welcome to my Data Journey 👋🏻!
 ![](https://komarev.com/ghpvc/?username=VivianNg9)
+
+Hi there, I'm Vivian - a data enthusiatist 
 ### **Technicall Skills**
 
-- **Programming Languages:** Python, R, SQL
-- **Data Analysis and Visualization tools:** Advanced Excel, Qlik, SAS, Tableau, PowerBI
+- **Programming Languages:** Python, R, SQL (MySQL, SQL Server, PostgreSQL), Excel (Pivot Table, Power Query, VBA) 
+- **Data Visualization tools:** PowerBI, Tableau, SAS Viya
+- **Database:** Snowflake, MongoDB
 - **Statistical Modeling:** Forecasting, Regression Analysis
-- **Database:** PostgreSQL, Snowflake, MongoDB
-- **Enterprise system:** SAP CRM
-- **Design and Prototyping:** Figma (HCI/UX)
+- **UX/UI Design** Figma 
 
 ### **About Me**
 - 🌱 Business Analytics degree
 - 🔍 Domain: Retail, Finance, Customer Experience
-- 📫 How to reach me: vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/vivian-nguyennn/
+
+## **🤝🏻 Let's connect**
+vivian.nguyennn9@gmail.com |  https://www.linkedin.com/in/vivian-nguyennn/
 
 
 [![VivianNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianNg9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
