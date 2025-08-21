@@ -13,7 +13,7 @@ Thanks for stopping by — feel free to explore, connect, or just say hi!
 - **Data Visualization tools:** PowerBI, Tableau, SAS Viya
 - **Database:** Snowflake, MongoDB
 - **Statistical Modeling:** Forecasting, Regression Analysis
-- **UX/UI Design** Figma 
+- **UX/UI Design**: Figma 
 
 ### **About Me**
 - 🌱 Business Analytics degree
