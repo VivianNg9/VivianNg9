@@ -1,7 +1,7 @@
 # Welcome to my Data Journey 👋🏻!
 ![](https://komarev.com/ghpvc/?username=VivianNg9)
 
-Hi there, I'm Vivian - **a data enthusiast.** with a strong foundation in the retail industry and stakeholder engagement.
+Hi there, I'm Vivian - **a data enthusiast** with a strong foundation in the retail industry and stakeholder engagement.
 
 Coming from a business background, I know how challenging it can be to step into data — but it’s exactly that challenge that excites me. I enjoy turning raw numbers into clear insights, building dashboards that tell stories, and uncovering patterns that support smarter decisions.
 
