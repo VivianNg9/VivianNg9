@@ -17,8 +17,8 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 - **UX/UI Design**: Figma
 
 ## **Degree**
-Master of Business Analytics - Macquarie University 
-Bachelor of Business Administration - National Economics University
+- Master of Business Analytics - Macquarie University 
+- Bachelor of Business Administration - National Economics University
 
 ## **About Me**
 - 🌱 Business Analytics degree
