@@ -21,7 +21,6 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 - Bachelor of Business Administration - National Economics University
 
 ## **About Me**
-- 🌱 Business Analytics degree
 - 🔍 Domain: Retail, Finance, Customer Experience
 
 ## **🤝🏻 Let's connect**
