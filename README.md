@@ -14,7 +14,11 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 - **Programming Languages:** Python, R, SQL (MySQL, SQL Server, PostgreSQL), Excel (Pivot Table, Power Query, VBA) 
 - **Data Visualization tools:** PowerBI, Tableau, SAS Viya
 - **Database:** Snowflake, MongoDB
-- **UX/UI Design**: Figma 
+- **UX/UI Design**: Figma
+
+## **Degree**
+Master of Business Analytics - Macquarie University 
+Bachelor of Business Administration - National Economics University
 
 ## **About Me**
 - 🌱 Business Analytics degree
