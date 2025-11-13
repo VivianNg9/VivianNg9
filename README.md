@@ -25,6 +25,7 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 
 ## **🤝🏻 Let's connect**
 📧 viviannguyen.da@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/vivian-nguyennn/) 
 
 
