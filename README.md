@@ -24,7 +24,7 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 - 🔍 Domain: Retail, Finance, Customer Experience
 
 ## **🤝🏻 Let's connect**
-📧 vivian.nguyennn9@gmail.com  
+📧 viviannguyen.da@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/vivian-nguyennn/) 
 
 
