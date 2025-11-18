@@ -21,7 +21,7 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 - Bachelor of Business Administration - National Economics University (Vietnam) 
 
 ## **About Me**
-- 🔍 Domain: Retail, Finance, Customer Experience
+- 🔍 Domain: Retail, Sales, Customer Experience
 
 ## **🤝🏻 Let's connect**
 📧 viviannguyen.da@gmail.com
