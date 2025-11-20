@@ -28,7 +28,7 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 
 🔗 [LinkedIn](https://www.linkedin.com/in/vivian-nguyennn/) 
 
-🔗 [Portfolio](https://viviannguyen99.vercel.app/)
+💻 [Portfolio](https://viviannguyen99.vercel.app/)
 
 
 [![VivianNguyen's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianNg9&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
