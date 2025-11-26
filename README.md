@@ -11,7 +11,7 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 
 ## **Technicall Skills**
 
-- **Programming Languages:** Python, R, SQL (MySQL, SQL Server, PostgreSQL), Excel (Pivot Table, Power Query, VBA) 
+- **Programming Languages:** Python, R, SQL (MySQL, SQL Server, PostgreSQL), Excel (Pivot Table, Power Query, Lookups) 
 - **Data Visualization tools:** PowerBI, Tableau, SAS Viya
 - **Database:** Snowflake, MongoDB
 - **UX/UI Design**: Figma
