@@ -33,3 +33,5 @@ This GitHub is where I share my projects and learnings as I grow in the world of
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivianNg9&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+![VivianNg9's GitHub stats](https://github-readme-stats.vercel.app/api?username=VivianNg9&show_icons=true&theme=radical)
+
