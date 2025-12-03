@@ -1,33 +1,76 @@
-# Welcome to my Data Journey 👋🏻!
+<!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=VivianNg9)
 
-Hi there, I'm Vivian - **a data enthusiast** with a strong foundation in the retail industry and stakeholder engagement.
+<h1 align="center">Welcome to my Data Journey 👋🏻</h1>
 
-Coming from a business background, I know how challenging it can be to step into data — but it’s exactly that challenge that excites me. I enjoy turning raw numbers into clear insights, building dashboards that tell stories, and uncovering patterns that support smarter decisions.
+<p align="center">
+  <img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" width="300" alt="Data analytics animated GIF"/>
+</p>
 
-This GitHub is where I share my projects and learnings as I grow in the world of data. 
+<p align="center">
+  <b>Hi, I'm Vivian – a data enthusiast with a retail and customer experience background.</b>
+</p>
 
-🚀 Thanks for stopping by — feel free to explore, connect, or just say hi!
+<p align="center">
+  I love turning messy data into clear stories, building dashboards that people actually use,<br>
+  and uncovering patterns that help teams make smarter decisions.
+</p>
 
-## **Technicall Skills**
+<p align="center">
+  🚀 Thanks for stopping by — feel free to explore, connect, or just say hi!
+</p>
 
-- **Programming Languages:** Python, R, SQL (MySQL, SQL Server, PostgreSQL), Excel (Pivot Table, Power Query, Lookups) 
-- **Data Visualization tools:** PowerBI, Tableau, SAS Viya
-- **Database:** MongoDB
-- **UX/UI Design**: Figma
+---
 
-## **Degree**
-- Master of Business Analytics - Macquarie University (Australia) 
-- Bachelor of Business Administration - National Economics University (Vietnam) 
+## 🛠 Tech Stack
 
-## **About Me**
-- 🔍 Domain: Retail, Sales, Customer Experience
+### 🧮 Programming & Analytics
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
 
-## **🤝🏻 Let's connect**
-📧 viviannguyen.da@gmail.com
+### 📊 Data Visualisation & BI
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS%20Viya-0C4A6E?style=for-the-badge&logo=sas&logoColor=white" />
+</p>
 
-🔗 [LinkedIn](https://www.linkedin.com/in/vivian-nguyennn/) 
+### 🗄 Databases & Tools
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-💻 [Portfolio](https://viviannguyen99.vercel.app/)
+### 🎨 UX/UI & Design
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
 
+---
 
+## 🎓 Education
+
+- 🎓 **Master of Business Analytics** – Macquarie University (Australia)  
+- 🎓 **Bachelor of Business Administration** – National Economics University (Vietnam)  
+
+---
+
+## 💡 About Me
+
+- 🔍 Domain interests: **Retail, Sales, Customer Experience**  
+- 📊 Passionate about: **insight storytelling, dashboard design, and data-driven decision making**  
+- 🌱 Currently growing in: **analytics engineering & BI best practices**
+
+---
+
+## 🤝🏻 Let’s Connect
+
+- 📧 Email: **viviannguyen.da@gmail.com**  
+- 🔗 LinkedIn: [linkedin.com/in/vivian-nguyennn](https://www.linkedin.com/in/vivian-nguyennn/)  
+- 💻 Portfolio: [viviannguyen99.vercel.app](https://viviannguyen99.vercel.app/)
