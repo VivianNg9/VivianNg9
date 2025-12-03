@@ -36,7 +36,6 @@
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000000" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-  <img src="https://img.shields.io/badge/SAS%20Viya-0C4A6E?style=for-the-badge&logo=sas&logoColor=white" />
 </p>
 
 ### 🗄 Databases & Tools
