@@ -66,7 +66,6 @@
 - 🔍 Domain interests: **Retail, Sales, Customer Experience**  
 - 📊 Passionate about: **insight storytelling, dashboard design, and data-driven decision making**  
 - 🌱 Currently growing in: **analytics engineering & BI best practices**
-
 ---
 
 ## 🤝🏻 Let’s Connect
