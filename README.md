@@ -62,7 +62,7 @@
 
 ## 💡 About Me
 
-- 🔍 Domain interests: **Retail, Sales, Automotive Customer Experience**  
+- 🔍 Domain interests: **Retail, Sales, Automotive, Customer Experience**  
 - 📊 Passionate about: **insight storytelling, dashboard design, and data-driven decision making**  
 - 🌱 Currently growing in: **analytics engineering & BI best practices**
 ---
