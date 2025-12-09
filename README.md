@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <b>Hi, I'm Vivian – a data enthusiast with a retail and customer experience background.</b>
+  <b>Hi, I'm Vivian – a data enthusiast with a retail, automotive and customer experience background.</b>
 </p>
 
 <p align="center">
