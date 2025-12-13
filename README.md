@@ -53,7 +53,7 @@
 
 ---
 
-## 🎓 Education
+## 👩‍🎓 Education
 
 - 🎓 **Master of Business Analytics** – Macquarie University (Australia)  
 - 🎓 **Bachelor of Business Administration** – National Economics University (Vietnam)  
