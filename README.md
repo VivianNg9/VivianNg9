@@ -68,7 +68,32 @@
 ---
 
 ## 🤝🏻 Let’s Connect
+<p align="left">
+  <!-- Email -->
+  <a href="mailto:viviannguyen.da@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail"
+         alt="Email" width="32" height="32" style="filter: invert(1);" />
+  </a>
+  &nbsp;&nbsp;
 
-- 📧 Email: **viviannguyen.da@gmail.com**  
-- 🔗 LinkedIn: [linkedin.com/in/vivian-nguyennn](https://www.linkedin.com/in/vivian-nguyennn/)  
-- 💻 Portfolio: [viviannguyen99.vercel.app](https://viviannguyen99.vercel.app/)
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vivian-nguyennn/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="32" height="32" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- Portfolio -->
+  <a href="https://viviannguyen99.vercel.app/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vercel"
+         alt="Portfolio" width="32" height="32" style="filter: invert(1);" />
+  </a>
+  &nbsp;&nbsp;
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/VivianNg9/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/leetcode/leetcode-original.svg" 
+         alt="LeetCode" width="32" height="32" style="filter: invert(1);" />
+  </a>
+</p>
+
