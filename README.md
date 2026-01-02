@@ -4,7 +4,8 @@
 <h1 align="center">Welcome to my Data Journey 👋🏻</h1>
 
 <p align="center">
-  <img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" width="300" alt="Data analytics animated GIF"/>
+  <!-- <img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" width="300" alt="Data analytics animated GIF"/> -->
+  <img src=https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTdlOHc0MmZmdzVxNjNiYXRncTQxaXF2dTNsdGZjdW13eW44bXk2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TncmRRvEGVoVcHgaAb/giphy.gif>
 </p>
 
 <p align="center">
