@@ -1,7 +1,7 @@
 <!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=VivianNg9)
 
-<h1 align="center">Welcome to my Data Journey 👋🏻</h1>
+<h1 align="center">Hi there 👋🏻 Welcome to my Data Journey </h1>
 
 <p align="center">
   <!-- <img src="https://gifdb.com/images/high/data-analysis-metrics-diagram-animation-g57rvdijwrl404kj.gif" width="300" alt="Data analytics animated GIF"/> -->
