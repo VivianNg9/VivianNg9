@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-  I love turning messy data into clear stories, building dashboards that people actually use,<br>
-  and uncovering patterns that help teams make smarter decisions.
+  I enjoy turning complex data into clear, practical insights,<br>
+  building dashboards that support real decisions, and identifying patterns that help teams improve performance
 </p>
 
 <p align="center">
